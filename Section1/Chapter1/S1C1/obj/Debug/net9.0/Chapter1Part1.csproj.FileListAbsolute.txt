@@ -1,0 +1,14 @@
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\bin\Debug\net9.0\Chapter1Part1.exe
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\bin\Debug\net9.0\Chapter1Part1.deps.json
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\bin\Debug\net9.0\Chapter1Part1.runtimeconfig.json
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\bin\Debug\net9.0\Chapter1Part1.dll
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\bin\Debug\net9.0\Chapter1Part1.pdb
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\obj\Debug\net9.0\Chapter1Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\obj\Debug\net9.0\Chapter1Part1.AssemblyInfoInputs.cache
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\obj\Debug\net9.0\Chapter1Part1.AssemblyInfo.cs
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\obj\Debug\net9.0\Chapter1Part1.csproj.CoreCompileInputs.cache
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\obj\Debug\net9.0\Chapter1Part1.dll
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\obj\Debug\net9.0\refint\Chapter1Part1.dll
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\obj\Debug\net9.0\Chapter1Part1.pdb
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\obj\Debug\net9.0\Chapter1Part1.genruntimeconfig.cache
+C:\kin\code\skiena-algorithms\Chapter1\Part1\Chapter1Part1\obj\Debug\net9.0\ref\Chapter1Part1.dll

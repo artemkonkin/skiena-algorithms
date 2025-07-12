@@ -1,0 +1,7 @@
+﻿services:
+  chapter1part1:
+    image: chapter1part1
+    build:
+      context: .
+      dockerfile: Chapter1/Part1/Chapter1Part1/Dockerfile
+
