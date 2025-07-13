@@ -5,6 +5,9 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section1", "Section1", "{51B9A1CB-1FB6-416F-BC00-B68E1B1F7157}"
+	ProjectSection(SolutionItems) = preProject
+		Section1\ReadMe.md = Section1\ReadMe.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter1", "Chapter1", "{4F7CE05D-B48E-4FDD-95B2-BD40B36D06C2}"
 EndProject
