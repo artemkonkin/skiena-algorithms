@@ -12,3 +12,4 @@ C:\kin\code\skiena-algorithms\Section1\Chapter1\S1C1\obj\Debug\net9.0\refint\S1C
 C:\kin\code\skiena-algorithms\Section1\Chapter1\S1C1\obj\Debug\net9.0\S1C1.pdb
 C:\kin\code\skiena-algorithms\Section1\Chapter1\S1C1\obj\Debug\net9.0\S1C1.genruntimeconfig.cache
 C:\kin\code\skiena-algorithms\Section1\Chapter1\S1C1\obj\Debug\net9.0\ref\S1C1.dll
+C:\kin\code\skiena-algorithms\Section1\Chapter1\S1C1\obj\Debug\net9.0\S1C1.sourcelink.json
